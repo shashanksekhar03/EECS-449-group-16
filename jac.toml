@@ -2,7 +2,7 @@
 name = "EECS-449-group-16"
 version = "0.2.0"
 description = "Full-stack job discovery and application assistant built with Jac"
-entry-point = "main.jac"
+entry-point = "main"
 kind = "web-app"
 jac-version = "==0.37.11"
 
